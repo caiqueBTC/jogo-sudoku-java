@@ -58,6 +58,7 @@ Passo a Passo
     Execute o jogo, escolhendo um dos níveis de dificuldade abaixo.
 
 🎲 Níveis de Dificuldade
+
 Modo Fácil (Tabuleiro Vazio)
 
 Comece do zero e preencha todo o tabuleiro.
@@ -79,3 +80,4 @@ java -jar target/sudoku-console-1.0-SNAPSHOT.jar "2,0;9,true" "4,0;8,true" "1,1;
 ✨ Agradecimentos
 
 Agradeço à Digital Innovation One (DIO) e à GFT pela oportunidade de participar do bootcamp e pelo desafio que inspirou a criação deste projeto.
+
